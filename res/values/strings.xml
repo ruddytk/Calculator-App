@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidWeirdCalc2Activity!</string>
+    <string name="app_name">Calculator</string>
+    
+    <string name="firstInput">First Number:</string>
+    <string name="secondInput">Second Number:</string>
+    <string name="result">Result:</string>
+    <string name="buttonPlus">+</string>
+	<string name="buttonMinus">-</string>
+	<string name="buttonMultiply">*</string>
+	<string name="buttonDivide">/</string>
+	
+</resources>
